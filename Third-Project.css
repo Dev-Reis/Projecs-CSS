@@ -1,0 +1,72 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+    color: #5D5D7D;
+}
+
+
+a { 
+    text-decoration: none;
+    margin-right: 41px;
+}
+
+
+
+header { 
+    background-color: rgba(93, 93, 125, 0.1);
+    width: 35%;
+    height: 100vh;
+    position: absolute;
+    right: 0;
+    
+}
+
+nav{
+    font-size: 35px;
+    text-align: center;
+    width: 100%;
+}
+
+a:nth-child(2) {
+    opacity: 0.5;
+}
+
+main {
+    width: 50%;
+    position: relative;
+    top:350px;
+    left: 100px;  
+
+}
+
+h1 { 
+    font-size: 70px
+}
+
+p {
+    font-size: 28px;
+    margin: 41px 0 ;
+}
+
+button {
+    width: 269px;
+    height: 62px;
+    border-radius: 30px;
+    color: white;
+    background-color: #9499EA;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+img {
+    position: absolute;
+    top: 25vh;
+    right: 20vw;
+
+    
+}
+
